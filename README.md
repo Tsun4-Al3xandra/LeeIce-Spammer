@@ -1,5 +1,5 @@
 # <a style="font-family:cursive">LeeIceSpammer WORK 1000% FOR ID NUMBER!!</a>
-<p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>MySPAMBot-OTP</b> solusinya!! <b>MySPAMBot-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
+<p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>LeeIce-Spammer</b> solusinya!! <b>LeeIce-Spammer</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
 <br>
 
 # v.1.0.7 (**08 Mei 2023**) WORK! ✔️✔️
@@ -22,11 +22,11 @@ Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install
 
 - **Clone repository**
 ```bash
-git clone https://github.com/rickyfazaa/MySPAMBot-OTP
+git clone https://github.com/Rafa55603/LeeIce-Spammer.git
 ```
 - **Masuk kedalam directory**
 ```sh
-cd MySPAMBot-OTP
+cd LeeIce-Spammer
 ```
 - **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
 ```bash
@@ -34,29 +34,11 @@ python main.py
 ```
 <br>
 
-### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
-- **Download Manual:**
-[Download MySPAMBot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.7/MySPAMBot-OTP-v1.0.7-windows.rar) <br>
-- Extract **MySPAMBot-OTP-v1.0.7-windows.rar**
-- **Buka CMD / Command Prompt (atau terminal VSCode)**
-- **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
-```sh
-cd MySPAMBot-OTP
-```
-- **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
-```bash
-python main.py
-```
-<br>
-
-## Dependencies 🚀
-**`Coming Soon`**
-<br>
 
 <br>
 
 
 ## Support Me 
 ## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
-### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
-Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
+### [**My Instagram: @littleheartbigbody00**](https://www.instagram.com/littleheartbigbody00)    
+Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/littleheartbigbody00).
